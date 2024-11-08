@@ -33,8 +33,6 @@ MillieOS is an open-source project, and contributions are always welcome! Whethe
 2. Make your changes.
 3. Submit a pull request with a clear description of your changes.
 
-Please make sure to follow the project's contributing guidelines.
-
 ## License
 
 MillieOS is licensed under the MIT License. See the LICENSE file for details.
